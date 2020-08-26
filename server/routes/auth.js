@@ -17,8 +17,8 @@ const secter = 'qwertyuio'
     var transporter = nodemailer.createTransport({
         service: 'gmail',
         auth: {
-            user: "khalidmehmood1880@gmail.com",
-            pass: 'khush1880'
+            user: "your emain",
+            pass: 'password'
         }
     });
 
